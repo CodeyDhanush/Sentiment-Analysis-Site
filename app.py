@@ -6,7 +6,7 @@ from sentiment_analyzer import SentimentAnalyzer
 from data_processor import DataProcessor
 from visualization import SentimentVisualizer
 
-# Initialize components with caching
+
 @st.cache_resource
 def get_analyzer():
     return SentimentAnalyzer()
