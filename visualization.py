@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 from collections import Counter
 
-class SentimentVisualizer:
+class SentimentVisualizer: 
     """
     Visualization utilities for sentiment analysis results
     """
