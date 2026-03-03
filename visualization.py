@@ -6,7 +6,7 @@ from collections import Counter
  
 class SentimentVisualizer: 
     """ 
-    Visualization utilities for sentiment analysis results
+    Visualization utilities for sentiment analysis results 
     """
     
     def __init__(self):
